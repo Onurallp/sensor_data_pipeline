@@ -16,3 +16,6 @@ Sensors and SIM module are connected to the ESP32 on self-made PCB. Ultrasonic s
 In order to maintain smooth pipeline connections with the database and web page, Raspberry Pi 4 is used. (Linux based mini computer) All the pipeline structure are written and stored inside Raspberry Pi 4. In the link down below, the pipeline structure can be seen alongside with the project that inspired me.
 
  https://RandomNerdTutorials.com/esp32-esp8266-mysql-database-php/
+
+
+PS: The main.cpp is not fully updated and it is not ready to use since it is constantly changes according to circumstances. Also SIM 800 module codes are not provided.
